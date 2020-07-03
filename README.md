@@ -4,8 +4,8 @@ Finding the readability score and recommended age group for a text file using se
 ## The program in action, divided into simplified steps
 
 - Step 1
-  -Take the name of the text file to be analyzed from the command line argument
-  -Load the text from the file using Scanner class
+  - Take the name of the text file to be analyzed from the command line argument
+  - Load the text from the file using Scanner class
 
 - Step 2
   - Separate text into sentences using BreakIterator and store the number of sentences in a variable.
